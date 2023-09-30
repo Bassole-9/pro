@@ -144,7 +144,7 @@ footer .logo img{
 form{
     display: flex;
     justify-content: center;
-    background-color: gray;
+    background-color: rgb(34, 149, 207);
     height: 60rem;
     width: 30rem;
     margin: 0% auto;
